@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/boilerplate-project-timestamp.iml" filepath="$PROJECT_DIR$/.idea/boilerplate-project-timestamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/express-microservices.iml" filepath="$PROJECT_DIR$/.idea/express-microservices.iml" />
     </modules>
   </component>
 </project>

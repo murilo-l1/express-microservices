@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d42cab48-996a-4ccf-84db-b79efceb1554" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise-tracker-microservice/exercises-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-tracker-microservice/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-tracker-microservice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-tracker-microservice/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-tracker-microservice/sample.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-tracker-microservice/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filemetadata-microservice/files-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filemetadata-microservice/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filemetadata-microservice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filemetadata-microservice/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filemetadata-microservice/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url-shortner-microservice/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url-shortner-microservice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url-shortner-microservice/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url-shortner-microservice/shortner-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url-shortner-microservice/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whoami-microservice/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whoami-microservice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whoami-microservice/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whoami-microservice/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whoami-microservice/whoami-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/express-date-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/date-microservice/date-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/date-microservice/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/date-microservice/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/date-microservice/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/date-microservice/views/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iyU7dcNVK0SfytOZXkM1sowv88" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.index.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Desenvolvedor/NodeJS/node.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "D:\\Desenvolvedor\\WebStorm\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desenvolvedor\WebStormProjects\express-microservices\exercise-tracker-microservice" />
+      <recent name="D:\Desenvolvedor\WebStormProjects\express-microservices\filemetadata-microservice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d42cab48-996a-4ccf-84db-b79efceb1554" name="Changes" comment="" />
+      <created>1720462146287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720462146287</updated>
+      <workItem from="1720462147579" duration="974000" />
+      <workItem from="1720473791754" duration="3482000" />
+      <workItem from="1720554546463" duration="9147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
