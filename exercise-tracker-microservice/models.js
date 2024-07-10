@@ -8,7 +8,7 @@ const userSchema = new Schema({
 const User = mongoose.model('User', userSchema);
 
 const exerciseSchema = new Schema({
-    _id: {type: Number, required: true},
+    _id: {type: Schema.Types.ObjectId, ref: 'User', required: true},
     username: {type: String, required: true},
     description: {type: String, required: true},
     duration: {type: Number, required: true},
