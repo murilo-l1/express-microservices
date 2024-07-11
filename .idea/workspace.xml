@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42cab48-996a-4ccf-84db-b79efceb1554" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d42cab48-996a-4ccf-84db-b79efceb1554" name="Changes" comment="Exercise creation added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise-tracker-microservice/exercises-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-tracker-microservice/exercises-server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise-tracker-microservice/models.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-tracker-microservice/models.js" afterDir="false" />
@@ -34,24 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.exercises-server.js.executor": "Run",
-    "Node.js.index.js.executor": "Run",
-    "Node.js.models.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Desenvolvedor/NodeJS/node.exe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "D:\\Desenvolvedor\\WebStorm\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.exercises-server.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.models.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desenvolvedor/NodeJS/node.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Desenvolvedor\\WebStorm\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Desenvolvedor\WebStormProjects\express-microservices\exercise-tracker-microservice" />
@@ -76,11 +75,25 @@
       <workItem from="1720462147579" duration="974000" />
       <workItem from="1720473791754" duration="3482000" />
       <workItem from="1720554546463" duration="10160000" />
-      <workItem from="1720619669083" duration="3392000" />
+      <workItem from="1720619669083" duration="8214000" />
+      <workItem from="1720644037229" duration="4444000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercise creation added">
+      <option name="closed" value="true" />
+      <created>1720625758208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720625758208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise creation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise creation added" />
   </component>
 </project>
